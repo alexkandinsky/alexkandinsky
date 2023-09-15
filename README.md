@@ -1,4 +1,14 @@
+<div id="header" align="center">
+    <h1>Hi there, I'm  Alexander</h1>
+    <h3>Data Analyst from Moscow</h3>
+</div>
 
+<p align = "center"> 
+    
+[<img src="https://img.shields.io/badge/telegram-%2312100E.svg?&style=for-the-badge&logo=telegram&logoColor=white&color=black" />](https://www.linkedin.com/in/alexander-korotaev/)
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/alexander-korotaev/)
+[<img src="https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white&color=black" />](https://www.kaggle.com/washedbyblood)
+</p>
 
 ## Languages and tools:
 
@@ -13,19 +23,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Tableau](https://img.shields.io/badge/Tableau-2311AB00?style=for-the-badge&logo=tableau&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/Git-121011?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-
-
-
-
-
-## Connect with me:
-
-<p align = "center"> 
-    
-[<img src="https://img.shields.io/badge/telegram-%2312100E.svg?&style=for-the-badge&logo=telegram&logoColor=white&color=black" />](https://www.linkedin.com/in/alexander-korotaev/)
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/alexander-korotaev/)
-[<img src="https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white&color=black" />](https://www.kaggle.com/washedbyblood)
-</p>
 
 ## My statistics:
 
