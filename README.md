@@ -5,10 +5,10 @@
 
 <div id='socials', align='center'>
   <a href='https://t.me/washedbyblood'>
-    <img src='https://cdn.icon-icons.com/icons2/2530/PNG/512/telegram_button_icon_151837.png' alt='Telegram'/>
+    <img src='https://cdn.icon-icons.com/icons2/2530/PNG/512/telegram_button_icon_151837.png' alt='Telegram' width=200/>
   </a>
   <a href='https://t.me/washedbyblood'>
-    <img src='https://cdn.icon-icons.com/icons2/2530/PNG/512/linkedin_button_icon_151847.png' alt='LinkedIn'/>
+    <img src='https://cdn.icon-icons.com/icons2/2530/PNG/512/linkedin_button_icon_151847.png' alt='LinkedIn' width=200/>
   </a>
 </div>
 
