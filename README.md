@@ -1,7 +1,17 @@
-<div id='header' align='center'>
-  <h1>Hi there 👋, I'm Alexander</h1>
-  <h3>Data Analyst from Moscow</h3>
-</div>
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Alexander. I'm a self-taught Data Analyst from Moscow" src="./assets/gh-readme-header.png" /></a></p>
+
+<br />
+
+
+**About me**
+
+- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
+
+- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
+
+- ❤️ I love writing TypeScript, and building fun experiments on type-level
+
+- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
 
 <div id='socials', align='center'>
   <a href='https://t.me/washedbyblood'>
