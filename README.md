@@ -1,6 +1,7 @@
 
 
 ## Languages and tools:
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
@@ -19,13 +20,16 @@
 
 ## Connect with me:
 
-<p align = "center">
-  
-[<img src="https://img.shields.io/badge/telegram-%2312100E.svg?&style=for-the-badge&logo=telegram&logoColor=white&color=black" />](https://www.linkedin.com/in/alexander-korotaev/)
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/alexander-korotaev/)
-[<img src="https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white&color=black" />](https://www.kaggle.com/washedbyblood)
-
+<p align = "center">  
+  [<img src="https://img.shields.io/badge/telegram-%2312100E.svg?&style=for-the-badge&logo=telegram&logoColor=white&color=black" />](https://www.linkedin.com/in/alexander-korotaev/)
+  [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/alexander-korotaev/)
+  [<img src="https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white&color=black" />](https://www.kaggle.com/washedbyblood)
 </p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexkandinsky&theme=github_dark)
-| ------------- | ------------- |
+## My statistics:
+
+<div id="stat" align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexkandinsky&theme=github_dark" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alexkandinsky&theme=github_dark" alt=""/>
+     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alexkandinsky&theme=github_dark" alt=""/>
+</div>
