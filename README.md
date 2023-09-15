@@ -20,7 +20,8 @@
 
 ## Connect with me:
 
-<p align = "center">  
+<p align = "center"> 
+    
 [<img src="https://img.shields.io/badge/telegram-%2312100E.svg?&style=for-the-badge&logo=telegram&logoColor=white&color=black" />](https://www.linkedin.com/in/alexander-korotaev/)
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/alexander-korotaev/)
 [<img src="https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white&color=black" />](https://www.kaggle.com/washedbyblood)
