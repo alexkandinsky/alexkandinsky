@@ -7,7 +7,9 @@
   <a href='https://t.me/washedbyblood'>
     <img src='https://cdn.icon-icons.com/icons2/2530/PNG/512/telegram_button_icon_151837.png' alt='Telegram'/>
   </a>
-  
+  <a href='https://t.me/washedbyblood'>
+    <img src='https://cdn.icon-icons.com/icons2/2530/PNG/512/linkedin_button_icon_151847.png' alt='LinkedIn'/>
+  </a>
 </div>
 
 <!--
