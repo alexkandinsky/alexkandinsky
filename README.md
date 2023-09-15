@@ -8,7 +8,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;
-![Google Collab](https://img.shields.io/badge/collab-%23FA0F00.svg?style=for-the-badge&logo=collab&logoColor=white)&nbsp;
+![Google Collab](https://img.shields.io/badge/googlecollab-%23FA0F00.svg?style=for-the-badge&logo=collab&logoColor=white)&nbsp;
 
 
 
