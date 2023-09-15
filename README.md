@@ -10,7 +10,7 @@
   <a href='https://www.linkedin.com/in/alexander-korotaev/'>
     <img src='https://cdn.icon-icons.com/icons2/2530/PNG/512/linkedin_button_icon_151847.png' alt='LinkedIn' width=80 height=20/>
   </a>
-  <a href='alexander.kandinsky@gmail.com'>
+  <a href='mailto:alexander.kandinsky@gmail.com'>
     <img src='https://cdn.icon-icons.com/icons2/2530/PNG/512/gmail_button_icon_151848.png' alt='Gmail' width=80 height=20/>
   </a>
 </div>
