@@ -1,6 +1,6 @@
 
 
-## Tools:
+## Languages and tools:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
@@ -27,6 +27,5 @@
 
 </p>
 
-
-| <a href="https://github.com/alexkandinsky/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=alexkandinsky&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"/></a> | <a href="https://github.com/alexkandinsky/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexkandinsky&layout=compact&theme=buefy&hide_border=true" /></a> |
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexkandinsky&theme=github_dark)
 | ------------- | ------------- |
