@@ -1,6 +1,5 @@
 <div id="header" align="center">
-    <h1>Hi there, I'm  Alexander</h1>
-    <h3>Data Analyst from Moscow</h3>
+<img src='https://media.giphy.com/media/IElaFaL2bFelZyxSEE/giphy.gif' width=100/>
 </div>
 
 <div id="socials" align="center">
