@@ -9,12 +9,19 @@
 [<img src="https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white&color=black" />](https://www.kaggle.com/washedbyblood)
 </div>
 
-<div id="badges" align='center'>
-<img src="https://komarev.com/ghpvc/?username=alexkandinsky&style=style=for-the-badge&color=blue" alt=""/>
-</div>
+<p align='center'>
+   📫 How to reach me: <a href='mailto:alex.kandinsky@gmail.com'>alex.kandinsky@gmail.com</a>
+</p>
+
+<p align='center'>
+   <a href="https://github-readme-stats.vercel.app/api?username=alexkandinsky&show_icons=true&count_private=true&theme=github_dark"><img
+           height=150
+           src="https://github-readme-stats.vercel.app/api?username=alexkandinsky&show_icons=true&count_private=true&theme=github_dark"/></a>
+   <a href="https://github.com/romankh3/github-readme-stats"><img height=150
+                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexkandinsky&layout=compact&theme=github_dark"/></a>
 
 
-## Languages and tools:
+## Technical Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
@@ -29,10 +36,9 @@
 ![Tableau](https://img.shields.io/badge/Tableau-2311AB00?style=for-the-badge&logo=tableau&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/Git-121011?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
-## My statistics:
 
-<div id="stat" align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexkandinsky&theme=github_dark" alt=""/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alexkandinsky&theme=github_dark" alt=""/>
-     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alexkandinsky&theme=github_dark" alt=""/>
+<div align="center" style="margin: 40px 0">
+   <a href="https://github.com/romankh3/github-profile-views-counter">
+       <img width="175px" src="https://komarev.com/ghpvc/?username=alexkandinsky&color=DE002D">
+   </a>
 </div>
