@@ -10,4 +10,5 @@
   <a href='https://www.linkedin.com/in/alexander-korotaev/'>
     <img src='https://cdn.icon-icons.com/icons2/2530/PNG/512/linkedin_button_icon_151847.png' alt='LinkedIn' width=80 height=20/>
   </a>
+  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=alexkandinsky)](https://github.com/username/github-readme-stats)
 </div>
