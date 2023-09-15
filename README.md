@@ -2,7 +2,7 @@
 
 
 
-## Connect with me:
+## Контакты для связи:
 
 <p align = "center">
 
