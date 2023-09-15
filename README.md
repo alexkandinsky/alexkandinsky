@@ -9,6 +9,11 @@
 [<img src="https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white&color=black" />](https://www.kaggle.com/washedbyblood)
 </div>
 
+<div id="badges" align='center'>
+<img src="https://komarev.com/ghpvc/?username=alexkandinsky&style=style=for-the-badge&color=blue" alt=""/>
+</div>
+
+
 ## Languages and tools:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
