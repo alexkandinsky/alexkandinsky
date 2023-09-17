@@ -27,6 +27,8 @@ At the moment, I continue to conduct research using data from open sources, and 
 ### My contacs: [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/washedbyblood) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-korotaev) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alex.kandinsky@gmail.com)
 </div>
 
+<br>
+
 ## Technical Stack:
 
 ### 💾 Databases
@@ -56,32 +58,22 @@ At the moment, I continue to conduct research using data from open sources, and 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
     
+<br>
 
+## Completed courses:
 
-
-### 💻 Пройденные курсы:
-
-| Курсы                                                           | Дата              |
+| Courses                                                         | Сertificate       |
 | ----------------------------------------------------------------| :---------------: |
-| netology.ru/Старт в программировании                            | 02/2022 - 03/2022 |
-| stepik.org/Основы программирования на C. Задачи.                | 02/2022 - 03/2022 |
-| netology.ru/Основы верстки сайта                                | 02/2022 - 03/2022 |
-| netology.ru/Первые шаги в JavaScript: создаём сайт и приложение | 02/2022 - 03/2022 |
-| stepik.org/Веб-разработка для начинающих: HTML и CSS            | 02/2022 - 03/2022 |
-| stepik.org/JavaScript для начинающих                            | 01/2023 - 01/2023 |
-| stepik.org/Web-технологии: начальный уровень                    | 01/2023 - 01/2023 |
-| practicum.yandex/Факультет Веб разработки                       | 05/2022 - xx/2023 |
+| Data Analyst Professional Training Course at <b>Practicum by Yandex</b>| [Click here](https://drive.google.com/file/d/1VOoW2gn14s3rVmzwsJfWbC9yR7lpPuKl/view?usp=sharing)|
 
-### ⚙️ GitHub статистика:
 
-<table>
-  <tr>
-    <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=FilimonovAlexey&theme=dark&background=000000" alt="webDev's Github stats" />
-    </td>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FilimonovAlexey&layout=compact&theme=vision-friendly-dark" />
-    </td>
-  </tr>
-</table>
+## GitHub statistics:
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=alexkandinsky&show_icons=true&theme=tokyonight" alt="my github stats" height="50%" width="50%"/>&nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexkandinsky&layout=compact&theme=tokyonight" alt="languages" height="50%" width="41.5%"/>
+</p> 
+<br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=alexkandinsky&style=plastic&label=PROFILE+VIEWS" alt="alexkandinsky" /> </p>
+   
 
