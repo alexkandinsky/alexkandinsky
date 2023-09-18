@@ -12,17 +12,7 @@
 
 I'm a beginner data analyst. <br> I completed the professional retraining program «Data Analyst» at Yandex.Practicum from 08.2022 to 04.2023.<br>
 At the moment, I continue to conduct research using data from open sources, and I am also actively looking for a new job.
-### Why I want to work in data analysis:
 
-- I want to keep learning and growing in my career;
-- I like the idea of working with a group of people who have similar interests;
-- I enjoy taking on interesting and challenging tasks that help the company grow.
-
-### Personal qualities:
-
-- I'm highly responsible and organized;
-- I see projects through to the end, prioritize results, and pay attention to details;
-- I quickly adapt and learn in new environments.
 
 ### My contacs: [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/washedbyblood) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-korotaev) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alex.kandinsky@gmail.com)
 </div>
