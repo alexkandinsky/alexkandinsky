@@ -10,7 +10,7 @@
 
 ### About Me:
 
-I'm a beginner data analyst. <br> I completed the professional retraining program «Data Analyst» at Yandex.Practicum from 08.2022 to 04.2023.<br>
+I completed the professional retraining program «Data Analyst» at Yandex.Practicum from 08.2022 to 04.2023.<br>
 At the moment, I continue to conduct research using data from open sources, and I am also actively looking for a new job.
 
 
