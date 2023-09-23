@@ -54,7 +54,9 @@ At the moment, I continue to conduct research using data from open sources, and 
 
 | Courses                                                         | Сertificate       |
 | ----------------------------------------------------------------| :---------------: |
-| Data Analyst Professional Training Course at <b>Practicum by Yandex</b>| [Click here](https://drive.google.com/file/d/1VOoW2gn14s3rVmzwsJfWbC9yR7lpPuKl/view?usp=sharing)|
+| <b>Practicum by Yandex:</b> Data Analyst Professional Training Course|[Click here](https://drive.google.com/file/d/1VOoW2gn14s3rVmzwsJfWbC9yR7lpPuKl/view?usp=sharing)|
+| <b>Karpov.Courses:</b> Simulator SQL| [Click here](https://drive.google.com/file/d/1CeWPBHhaZNGspL1rEz-pOG_z1pzZcS3z/view?usp=sharing)|
+
 
 
 ## GitHub statistics:
