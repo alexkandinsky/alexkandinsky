@@ -4,7 +4,7 @@
   <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="40px" />
 </h1>
 <h2 align="center">
-    I'm Alexander from Russia
+    I'm Alexander from Moscow;)
     <img src="https://media.tenor.com/cC_AxJ05jJEAAAAi/russia-flag.gif" width="30px" />
 </h2>
 
