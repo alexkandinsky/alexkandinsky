@@ -65,7 +65,7 @@ At the moment, I continue to conduct research using data from open sources, and 
 <img src="https://github-readme-stats.vercel.app/api?username=alexkandinsky&show_icons=true&theme=tokyonight" alt="my github stats" height="50%" width="50%"/>&nbsp;&nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexkandinsky&layout=compact&theme=tokyonight" alt="languages" height="50%" width="41.5%"/>
 </p> 
-<br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=alexkandinsky&style=plastic&label=PROFILE+VIEWS" alt="alexkandinsky" /> </p>
+
+
    
 
